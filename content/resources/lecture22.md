@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Brief outline of topics covered in the lecture.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004/7d3888b50457c8728fb4751569f20770_lecture22.pdf
+file: /media/courses/12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004/7d3888b50457c8728fb4751569f20770_lecture22.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture22.pdf
 uid: 7d3888b5-0457-c872-8fb4-751569f20770

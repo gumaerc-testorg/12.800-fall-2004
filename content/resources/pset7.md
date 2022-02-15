@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Homework assignment.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004/e7a526467a12afac78cd445be87dc9e2_pset7.pdf
+file: /media/courses/12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004/e7a526467a12afac78cd445be87dc9e2_pset7.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: pset7.pdf
 uid: e7a52646-7a12-afac-78cd-445be87dc9e2
