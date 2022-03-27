@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e9bc603b-ee9e-6391-f123-9ed7bb379805
 resourcetype: Document
 title: finalreview.pdf
 uid: 12338788-8816-ae13-5204-9141db64a789

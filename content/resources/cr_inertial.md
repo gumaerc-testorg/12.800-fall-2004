@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e9bc603b-ee9e-6391-f123-9ed7bb379805
 resourcetype: Image
 title: cr_inertial.jpg
 uid: 9029e071-ff24-b047-d7f1-80c3d52e678c
