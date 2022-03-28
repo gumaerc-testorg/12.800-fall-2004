@@ -3,11 +3,12 @@ content_type: page
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
+parent_uid: null
 title: Readings
 uid: 8f69ea00-89ad-db31-2aa7-56c15ecee7d9
 ---
 
-The handouts from [Jim Price](http://www.whoi.edu/sbl/liteSite.do?litesiteid=8232)  (Sr. Scientist, Woods Hole Oceanographic Institution) used in the lecture notes section of this course are now available as an online publication:  [_Topics in Fluid Dynamics: Dimensional Analysis, the Coriolis Force, and Lagrangian and Eulerian Representations_](/resources/res-12-001-topics-in-fluid-dynamics-spring-2010).
+The handouts from [Jim Price](http://www.whoi.edu/sbl/liteSite.do?litesiteid=8232)  (Sr. Scientist, Woods Hole Oceanographic Institution) used in the lecture notes section of this course are now available as an online publication:  [_Topics in Fluid Dynamics: Dimensional Analysis, the Coriolis Force, and Lagrangian and Eulerian Representations_](/courses/res-12-001-topics-in-fluid-dynamics-spring-2010).
 
 KC04 = Kundu, P. K., and I. M. Cohen. _Fluid Mechanics_. 3rd ed. New York: Elsevier Academic Press, 2004. ISBN: 9780121782535.  
 CR94 = Cushman-Roisin, B. _Introduction to Geophysical Fluid Dynamics_. New York: Prentice Hall, 1994. ISBN: 9780133533019.
