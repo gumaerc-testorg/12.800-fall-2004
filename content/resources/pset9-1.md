@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004/005482189b748c0189b7ecdd752103f8_pset9.doc
+file: /courses/12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004/005482189b748c0189b7ecdd752103f8_pset9.doc
 file_type: application/msword
 learning_resource_types:
 - Assignments
@@ -12,4 +12,8 @@ parent_uid: 2fbfe69d-e860-f9ef-4269-95eec7cc3f31
 resourcetype: Other
 title: pset9.doc
 uid: 00548218-9b74-8c01-89b7-ecdd752103f8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

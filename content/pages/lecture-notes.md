@@ -1,11 +1,15 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
-parent_uid: null
 title: Lecture Notes
 uid: e9bc603b-ee9e-6391-f123-9ed7bb379805
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -31,14 +35,14 @@ NOTES
 {{< tdopen >}}
 Introduced the Instructor.  
   
-Gave handout on kinematics ({{< resource_link 7a879633-aea6-163d-0867-6a971446da9f "PDF" >}}).  
+Gave handout on kinematics ({{% resource_link 7a879633-aea6-163d-0867-6a971446da9f "PDF" %}}).  
   
 Went over the class description and the course syllabus.  
   
 Defined a fluid with respect to its mode of resistance to applied forces and made an effort to demonstrate what makes the study of fluid dynamics hard/challenging/interesting.
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 6f8470e7-1dfe-1057-ef5a-668cd6aac83c "PDF" >}})
+({{% resource_link 6f8470e7-1dfe-1057-ef5a-668cd6aac83c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +58,7 @@ Briefly covered vector and tensor notation, vector and tensor algebra, wave kine
 Handout on dimensional analysis from Jim Price ([PDF - 1.5 MB](/courses/res-12-001-topics-in-fluid-dynamics-dimensional-analysis-the-coriolis-force-and-lagrangian-and-eulerian-representations-fall-2004/resources/essay1)).
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link e03fe579-9e40-06d1-1b87-627d5264561b "PDF" >}})
+({{% resource_link e03fe579-9e40-06d1-1b87-627d5264561b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,7 +76,7 @@ Derived the material derivative (time rate of change following the flow in an Eu
 Technology conspired to foil two demos (one mpeg movie and one video).
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link f5d398ec-f0c2-ef2f-33bb-e61fa633f4d7 "PDF" >}})
+({{% resource_link f5d398ec-f0c2-ef2f-33bb-e61fa633f4d7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +94,7 @@ Defined the linear strain rate, the shear strain rate, and the rigid rotation ra
 Showed that by a special choice of initial axes, the mathematical impact of shear strain rate is removed, and only dialation and rigid rotation remain.
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 7bb9e945-4055-34b3-6776-cbe404a8f839 "PDF" >}})
+({{% resource_link 7bb9e945-4055-34b3-6776-cbe404a8f839 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +107,7 @@ Briefly reviewed Lagrangian vs. Eulerian, the material derivative, rates of stra
   
 Defined the velocity gradient tensor and showed how it can be broken down into the sum of the strain rate tensor and the rotation rate tensor.  
   
-Gave some kinematic examples of how each component of the velocity gradient tensor deforms fluid blobs (G=\[4 4;2 8\] ({{< resource_link c67ade14-adf4-8743-a846-37f8b18d0d3e "ZIP" >}}), G=\[-1 6;1 -1\] ({{< resource_link 6e62e1db-2d9c-ff5f-8224-bdbb2f3f9ed4 "ZIP" >}}), G=\[-1 6;6 -1\] ({{< resource_link f3f6f35f-c645-a026-a78d-e221c4ccda2e "ZIP" >}}), G=\[-3 6;-6 -1\] ({{< resource_link abd2c2a1-1416-7cc9-a0b8-98fa3f8d3256 "ZIP" >}}), these are zipped pdf files).  
+Gave some kinematic examples of how each component of the velocity gradient tensor deforms fluid blobs (G=\[4 4;2 8\] ({{% resource_link c67ade14-adf4-8743-a846-37f8b18d0d3e "ZIP" %}}), G=\[-1 6;1 -1\] ({{% resource_link 6e62e1db-2d9c-ff5f-8224-bdbb2f3f9ed4 "ZIP" %}}), G=\[-1 6;6 -1\] ({{% resource_link f3f6f35f-c645-a026-a78d-e221c4ccda2e "ZIP" %}}), G=\[-3 6;-6 -1\] ({{% resource_link abd2c2a1-1416-7cc9-a0b8-98fa3f8d3256 "ZIP" %}}), these are zipped pdf files).  
   
 Gave a real-world example of shear in a rock.  
   
@@ -112,7 +116,7 @@ Introduced the linear uncertainty propagator and derived how one finds the direc
 Introduced singular value decomposition as a shortcut to finding the eigenvectors and values of MM' and M'M.
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 0761927d-52c9-d196-c9a8-a11bbd62f45a "PDF" >}})
+({{% resource_link 0761927d-52c9-d196-c9a8-a11bbd62f45a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -128,7 +132,7 @@ Discussed extensive and intensive properties, derived various forms of the Reyn
 Pseudo-derived the divergence theorem. Trivially derived the continuity equation using the Reynolds Transport Theorem.
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 6142530d-9f01-4a62-0edd-acc06da975b6 "PDF" >}})
+({{% resource_link 6142530d-9f01-4a62-0edd-acc06da975b6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -148,7 +152,7 @@ Started the derivation of the momentum equations by applying the Reynolds Transp
 Using the divergence theorem, converted the area integral of the flux of stress for the surface force to a volume integral of the divergence of stress.
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link db2c647b-8092-6c8b-2c6e-dc3577b65f88 "PDF" >}})
+({{% resource_link db2c647b-8092-6c8b-2c6e-dc3577b65f88 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -166,7 +170,7 @@ Attempted to interpret each of the terms in the equation.
 Obtained the Euler equations by ignoring viscosity and the Boussinesq approximation by assuming the mean density is much greater than perturbations to the mean.
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link af868588-b669-fd2d-852a-b812b23df83d "PDF" >}})
+({{% resource_link af868588-b669-fd2d-852a-b812b23df83d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -181,10 +185,10 @@ Derived the energy conservation equations starting from the Lagrangian form.
   
 Used the RTT on the LHS and expanded the work rate and heating rate terms of the RHS into volume and area integrals. Then used the divergence theorem to turn the area integrals into volume integrals. Obtained an expression for internal energy by subtracting off the mechanical energy terms, and expressed the internal energy in terms of temperature. Applied the Boussinesq approximation to the resulting heat equation.  
   
-Notes (with some typos) are available for download ({{< resource_link b2f2a20e-fc8f-36b4-b5b8-2ee4a6f039e1 "PDF" >}}).
+Notes (with some typos) are available for download ({{% resource_link b2f2a20e-fc8f-36b4-b5b8-2ee4a6f039e1 "PDF" %}}).
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link d510167b-c5cc-ee17-5ad6-d6345039892a "PDF" >}})
+({{% resource_link d510167b-c5cc-ee17-5ad6-d6345039892a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -202,7 +206,7 @@ Returned to Boussinesq arguments about the energy equation. Demonstrated that th
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link d9d0ff4b-4084-467d-756b-69f612327c3d "PDF" >}})
+({{% resource_link d9d0ff4b-4084-467d-756b-69f612327c3d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -216,7 +220,7 @@ Guest lecture by Jon Moskaitis.
 Derived the Bernoulli form by noting that the gravity body force can be written in terms of a potential and that if we assume that density is constant or only a function of pressure, then the pressure gradient force can also be written as a potential. Showed results for steady flow, steady irrotational flow, and irrotational flow. Defined the velocity potential and gave situations in which the velocity potential and/or the stream function obey Laplace's equation.
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link dbdc2bbc-8825-b710-d919-9f1e7f435a1d "PDF" >}})
+({{% resource_link dbdc2bbc-8825-b710-d919-9f1e7f435a1d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -232,7 +236,7 @@ Introduced vorticity by analyzing a rotational vortex and an irrotational vortex
 Defined circulation, introduced Stokes theorem, and gave an arm waving proof for Stokes theorem. Showed that for a rotational vortex, vorticity is constant and therefore circulation scales with radius (for an area that bounds the vortex). For an irrotational vortex, vorticity is zero everywhere except at the center of the vortex (where vorticity is infinite). The circulation associated with the vortex is constant for an area that bounds the center of the vortex, but zero for any area that does not bound the center of the vortex.
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 6411e619-b5fb-45f1-32cc-9ac1b83d4d14 "PDF" >}})
+({{% resource_link 6411e619-b5fb-45f1-32cc-9ac1b83d4d14 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -250,7 +254,7 @@ Long discussion on how to model interacting point vortices. Derived Kelvin's Cir
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 742b3656-764a-3d3a-60d9-1f7d7ddd539c "PDF" >}})
+({{% resource_link 742b3656-764a-3d3a-60d9-1f7d7ddd539c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -268,7 +272,7 @@ Explained the stretching and tilting terms.
 Showed that vorticity is constant for the additional constraints of 2d and inviscid.
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 39ab5419-814f-2e2e-3eff-bf2a84967f95 "PDF" >}})
+({{% resource_link 39ab5419-814f-2e2e-3eff-bf2a84967f95 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -284,7 +288,7 @@ Described that the centrifugal force acts to deform the shape of the earth so th
 A nice writeup on the Coriolis force from Jim Price ([PDF - 2.2 MB](/courses/res-12-001-topics-in-fluid-dynamics-dimensional-analysis-the-coriolis-force-and-lagrangian-and-eulerian-representations-fall-2004/resources/essay2)).
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 31fabd09-9b71-0f22-3c9a-10806e955db9 "PDF" >}})
+({{% resource_link 31fabd09-9b71-0f22-3c9a-10806e955db9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -304,7 +308,7 @@ Modified the vorticity equation obtained in the first half of the class to inclu
 Modified Kelvin's circulation theorem to include the earth's rotation. An expression for conservation of absolute vorticity is obtained.
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 0013f63d-f053-0942-a410-d7466f551ea7 "PDF" >}})
+({{% resource_link 0013f63d-f053-0942-a410-d7466f551ea7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -324,7 +328,7 @@ Started by revisiting the inertial oscillation, and then moved on to geostrophy.
 Showed that one needed a small Rossby number in order for the geostrophic balance to be justified.
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 63da77dc-b61a-8b0e-ce8f-3d028f81bc53 "PDF" >}})
+({{% resource_link 63da77dc-b61a-8b0e-ce8f-3d028f81bc53 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -342,7 +346,7 @@ Solved the gradient wind equation (a quadratic equation), and plotted solutions 
 Demonstrated in maths and force diagrams the various solutions (and non-solutions) to the equation. Ended with cyclostrophic flow.
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 89d0372f-d8c6-d020-79ee-402c0ba994d6 "PDF" >}})
+({{% resource_link 89d0372f-d8c6-d020-79ee-402c0ba994d6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -364,7 +368,7 @@ Examples of the vertical rigidity of rotating fluids were given in two movies.
 The Taylor column result was discussed, and a movie was provided.
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link a23d92d6-e97a-2f27-65c2-064939a30b2c "PDF" >}})
+({{% resource_link a23d92d6-e97a-2f27-65c2-064939a30b2c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -384,7 +388,7 @@ Introduced boundary layers and showed that under the influence of rotation, the 
 Derived an expression for mass transport in the ocean's surface boundary layer in terms of the applied atmospheric wind stress.
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 7a1125db-ddc6-2446-6eec-36973022e0c5 "PDF" >}})
+({{% resource_link 7a1125db-ddc6-2446-6eec-36973022e0c5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -400,7 +404,7 @@ The wind stress patterns in the northern hemisphere outside of the tropics resul
 Used Kelvin's circulation theorem and a desire for a steady state solution, it was argued that the only way the ocean interior can respond is by moving fluid to an area of lower planetary vorticity (equatorward). The magnitude of this Sverdrup transport was quantified in terms of the curl of the surface wind stress.
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 827e1203-7f63-fbf7-14ba-ebb84bf9b0f5 "PDF" >}})
+({{% resource_link 827e1203-7f63-fbf7-14ba-ebb84bf9b0f5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -414,7 +418,7 @@ _Waves Primer_
 Various forms of wave equations, definitions of wave number and frequency, derivations of phase speed and group velocity, and a quick discussion on dispersion relationships. See contents of waves.zip for movies showing how different wave numbers and frequencies impact phase and group speed. Primer notes and associated figures are available (Waves.pdf, wavefigs.pdf).
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 6aae0ce5-8d9d-0548-af48-2b517ffe591c "PDF" >}})
+({{% resource_link 6aae0ce5-8d9d-0548-af48-2b517ffe591c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -432,7 +436,7 @@ Returned to the linearization of the governing equation and added a y-dependence
 Began to discuss the stability implications.
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link bd93c290-3904-0c13-dfc0-b42ab1a84ccb "PDF" >}})
+({{% resource_link bd93c290-3904-0c13-dfc0-b42ab1a84ccb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -452,7 +456,7 @@ Sketched an idealized shear flow to show the mechanisms by which the perturbatio
 Ended class by deriving the shallow water equations.
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 7d3888b5-0457-c872-8fb4-751569f20770 "PDF" >}})
+({{% resource_link 7d3888b5-0457-c872-8fb4-751569f20770 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -490,7 +494,7 @@ Introduced the Kelvin wave, derived the dispersion relation, then plugged it bac
 Ended with a discussion of the delayed action oscillator model of ENSO.
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 12338788-8816-ae13-5204-9141db64a789 "PDF" >}})
+({{% resource_link 12338788-8816-ae13-5204-9141db64a789 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
