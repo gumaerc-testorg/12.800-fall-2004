@@ -5,6 +5,7 @@ file: /courses/12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004/3cb22
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Supporting MATLAB? file.
-

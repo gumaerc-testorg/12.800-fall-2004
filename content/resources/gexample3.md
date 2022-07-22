@@ -6,6 +6,7 @@ file: /courses/12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004/f3f6f
 file_type: application/zip
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Zip file containing kinematic example of how each component of the velocity gradient tensor deforms fluid blobs (G=[-1 6;6 -1]).
-

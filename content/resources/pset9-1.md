@@ -5,6 +5,7 @@ file: /courses/12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004/00548
 file_type: application/msword
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
