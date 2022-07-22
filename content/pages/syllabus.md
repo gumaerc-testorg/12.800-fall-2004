@@ -1,7 +1,17 @@
 ---
 content_type: page
+description: 'A basic understanding of vector and tensor notation and algebra is assumed,
+  as is a basic understanding of wave kinematics (dispersion relations, group velocity,
+  phase velocity, etc.).  The course has four main components: 1) lectures, 2) reading
+  assignments, 3) problem sets, and 4) short quizzes'
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 4b42966d-4fb5-1a0a-5270-43932f08d6cf
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
