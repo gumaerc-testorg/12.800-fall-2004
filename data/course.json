@@ -54,8 +54,10 @@
     "website": "12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004"
   },
   "learning_resource_types": [
-    "Lecture Notes"
+    "Lecture Notes",
+    "Problem Sets"
   ],
-  "site_uid": "6e2dce8e-80eb-42ab-ba4f-4197b692a6f7",
+  "site_uid": "8721a604-402b-41f3-9ea2-e8966dfa670a",
+  "site_short_id": "12.800-fall-2004",
   "title": "Course Metadata"
 }
