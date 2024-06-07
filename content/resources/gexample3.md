@@ -3,6 +3,7 @@ content_type: resource
 description: Zip file containing kinematic example of how each component of the velocity
   gradient tensor deforms fluid blobs (G=[-1 6;6 -1]).
 file: /courses/12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004/f3f6f35fc645a026a78de221c4ccda2e_gexample3.zip
+file_size: 276350
 file_type: application/zip
 learning_resource_types:
 - Lecture Notes

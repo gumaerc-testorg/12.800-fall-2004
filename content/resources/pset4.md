@@ -2,6 +2,7 @@
 content_type: resource
 description: Homework assignment.
 file: /courses/12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004/67dd0631215931d8a456b77748ee8184_pset4.pdf
+file_size: 80658
 file_type: application/pdf
 learning_resource_types:
 - Assignments
