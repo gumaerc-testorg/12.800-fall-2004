@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture handout.
 file: /courses/12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004/b2f2a20efc8f36b4b5b82ee4a6f039e1_energy.pdf
+file_size: 115347
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
