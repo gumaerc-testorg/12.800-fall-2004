@@ -1,6 +1,6 @@
 ---
 content_type: page
-description: ''
+description: 'This section contains readings for the course. '
 draft: false
 learning_resource_types:
 - Readings
@@ -12,10 +12,10 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
-The handouts from [Jim Price](http://www.whoi.edu/sbl/liteSite.do?litesiteid=8232)  (Sr. Scientist, Woods Hole Oceanographic Institution) used in the lecture notes section of this course are now available as an online publication:  [_Topics in Fluid Dynamics: Dimensional Analysis, the Coriolis Force, and Lagrangian and Eulerian Representations_](/courses/res-12-001-topics-in-fluid-dynamics-spring-2010).
+The handouts from [Jim Price](http://www.whoi.edu/sbl/liteSite.do?litesiteid=8232)  (Sr. Scientist, Woods Hole Oceanographic Institution) used in the lecture notes section of this course are now available as an online publication:  [*Topics in Fluid Dynamics*](/courses/res-12-001-topics-in-fluid-dynamics-fall-2023/).
 
-KC04 = Kundu, P. K., and I. M. Cohen. _Fluid Mechanics_. 3rd ed. New York: Elsevier Academic Press, 2004. ISBN: 9780121782535.   
-CR94 = Cushman-Roisin, B. _Introduction to Geophysical Fluid Dynamics_. New York: Prentice Hall, 1994. ISBN: 9780133533019.
+KC04 = Kundu, P. K., and I. M. Cohen. *Fluid Mechanics*. 3rd ed. New York: Elsevier Academic Press, 2004. ISBN: 9780121782535.    
+CR94 = Cushman-Roisin, B. *Introduction to Geophysical Fluid Dynamics*. New York: Prentice Hall, 1994. ISBN: 9780133533019.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 LEC #
@@ -27,11 +27,11 @@ READINGS
 1
 {{< tdclose >}}{{< tdopen >}}
 
-_Introduction_
+*Introduction*
 
-Class Aims   
-Class Administration (Problem Sets, Exams, Grades, etc.)   
-Scheduling Issues   
+Class Aims    
+Class Administration (Problem Sets, Exams, Grades, etc.)    
+Scheduling Issues    
 Introduction to Fluid Dynamics
 
 {{< tdclose >}}{{< tdopen >}}
@@ -40,61 +40,61 @@ Introduction to Fluid Dynamics
 2-5
 {{< tdclose >}}{{< tdopen >}}
 
-_Kinematics of Fluid Flow_
+*Kinematics of Fluid Flow*
 
-Eulerian and Lagrangian Representations of Flow   
-The Material Derivative   
-Trajectories, Streaklines, and Streamlines   
-Cauchy-Stokes Theorem   
+Eulerian and Lagrangian Representations of Flow    
+The Material Derivative    
+Trajectories, Streaklines, and Streamlines    
+Cauchy-Stokes Theorem    
 The Velocity Gradient Tensor
 
 {{< tdclose >}}{{< tdopen >}}
 
-_Session 2_
+*Session 2*
 
-KC04: 1.1-1.7, 3.1-3.5, 3.13 (optional Chap 2)   
-CR94: Chapter 1   
+KC04: 1.1-1.7, 3.1-3.5, 3.13 (optional Chap 2)    
+CR94: Chapter 1    
 KFF I, II, IV
 
-_Session 3_
+*Session 3*
 
 KC04: 3.6-3.10
 
-_Session 4_
+*Session 4*
 
 KC04: 3.6-3.10
 
-_Session 5_
+*Session 5*
 
-KFF V   
+KFF V    
 KC04: 4.1-4.4
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6-9
 {{< tdclose >}}{{< tdopen >}}
 
-_Conservation Equations_
+*Conservation Equations*
 
-Reynolds Transport Theorem   
-Momentum Equations (Navier-Stokes, Boussinesq form of Navier-Stokes, Euler)   
-Total Energy Equation, Mechanical Energy Equation, Heat Equation   
+Reynolds Transport Theorem    
+Momentum Equations (Navier-Stokes, Boussinesq form of Navier-Stokes, Euler)    
+Total Energy Equation, Mechanical Energy Equation, Heat Equation    
 2nd Law of Thermodynamics
 
 {{< tdclose >}}{{< tdopen >}}
 
-_Session 6_
+*Session 6*
 
 KC04: 4.5-4.11
 
-_Session 7_
+*Session 7*
 
 KC04: 4.13 - 4.15
 
-_Session 8_
+*Session 8*
 
 KC04: 4.13 - 4.17
 
-_Session 9_
+*Session 9*
 
 KC04: 4.16 - 4.18
 
@@ -102,31 +102,31 @@ KC04: 4.16 - 4.18
 10-13
 {{< tdclose >}}{{< tdopen >}}
 
-_Vortex Flows, Circulation, and Vorticity_
+*Vortex Flows, Circulation, and Vorticity*
 
-Bernoulli Functions   
-Solid Body Rotation, Point Vortex, Rankine Vortex   
-Stokes' Theorem   
-Potential Flows: Interacting Point Vortices   
-Kelvin's Circulation Theorem   
-Helmholtz Vortex Theorems   
+Bernoulli Functions    
+Solid Body Rotation, Point Vortex, Rankine Vortex    
+Stokes' Theorem    
+Potential Flows: Interacting Point Vortices    
+Kelvin's Circulation Theorem    
+Helmholtz Vortex Theorems    
 Vorticity Equation
 
 {{< tdclose >}}{{< tdopen >}}
 
-_Session 10_
+*Session 10*
 
 KC04: 4.16 - 4.18
 
-_Session 11_
+*Session 11*
 
 KC04: 5.1-5.3, 5.8-5.9, 3.11 (review)
 
-_Session 12_
+*Session 12*
 
 KC04: 5.4-5.5
 
-_Session 13_
+*Session 13*
 
 KC04: 5.4-5.5
 
@@ -134,20 +134,20 @@ KC04: 5.4-5.5
 14-15
 {{< tdclose >}}{{< tdopen >}}
 
-_Impact of The Earth’s Rotation_
+*Impact of The Earth’s Rotation*
 
-Momentum Eequations in a Rotating Frame   
-Centripetal Acceleration, Coriolis Acceleration   
-Vorticity Equation in a Rotating Frame   
+Momentum Eequations in a Rotating Frame    
+Centripetal Acceleration, Coriolis Acceleration    
+Vorticity Equation in a Rotating Frame    
 Kelvin's Circulation Theorem in a Rotating Frame
 
 {{< tdclose >}}{{< tdopen >}}
 
-_Session 14_
+*Session 14*
 
 KC04: 4.12, CR: 2.1-2.5
 
-_Session 15_
+*Session 15*
 
 KC04: 5.7, 14.1-14.4
 
@@ -155,21 +155,21 @@ KC04: 5.7, 14.1-14.4
 16-18
 {{< tdclose >}}{{< tdopen >}}
 
-_GFD Kinematics_
+*GFD Kinematics*
 
-Simplified Momentum Equations   
-Inertial Flow, Geostrophy, Gradient Wind, Cyclostrophic Flow, Isallobaric Flow   
-Impact of Viscosity   
-Taylor-Proudman Theorem   
+Simplified Momentum Equations    
+Inertial Flow, Geostrophy, Gradient Wind, Cyclostrophic Flow, Isallobaric Flow    
+Impact of Viscosity    
+Taylor-Proudman Theorem    
 Thermal Wind
 
 {{< tdclose >}}{{< tdopen >}}
 
-_Session 16_
+*Session 16*
 
 KC04: 14.5
 
-_Session 17_
+*Session 17*
 
 Holton 92: 3.2, 3.4
 
@@ -177,16 +177,16 @@ Holton 92: 3.2, 3.4
 19-20
 {{< tdclose >}}{{< tdopen >}}
 
-_Ekman Layers_
+*Ekman Layers*
 
-Brief Bboundary Layer Introduction   
-Mass Transport in Ekman Layer; Ekman Pumping and Suction   
-Ekman Spiral   
+Brief Bboundary Layer Introduction    
+Mass Transport in Ekman Layer; Ekman Pumping and Suction    
+Ekman Spiral    
 Sverdrup Transport
 
 {{< tdclose >}}{{< tdopen >}}
 
-_Session 20_
+*Session 20*
 
 14.6-14.7
 
@@ -194,31 +194,31 @@ _Session 20_
 21-24
 {{< tdclose >}}{{< tdopen >}}
 
-_Waves_
+*Waves*
 
-Beta Effect   
-Wave Kinematics   
-Barotropic, Fixed Depth Rossby Waves   
-Shallow Water Equations, Shallow Water Gravity Waves, Inertia-Gravity Waves, Kelvin Waves   
-Potential Vorticity   
-Barotropic, Quasi-Geostrophic Rossby Waves   
+Beta Effect    
+Wave Kinematics    
+Barotropic, Fixed Depth Rossby Waves    
+Shallow Water Equations, Shallow Water Gravity Waves, Inertia-Gravity Waves, Kelvin Waves    
+Potential Vorticity    
+Barotropic, Quasi-Geostrophic Rossby Waves    
 Kelvin-Helmholz Instability
 
 {{< tdclose >}}{{< tdopen >}}
 
-_Session 21_
+*Session 21*
 
 KC04: 14.8
 
-_Session 22_
+*Session 22*
 
 KC04: 12.9, 14.16
 
-_Session 23_
+*Session 23*
 
 KC04: 14.13, 14.15
 
-_Session 24_
+*Session 24*
 
 KC04: 14.11-14.12
 
