@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Brief outline of topics covered in the lecture.
-file: /courses/12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004/31fabd099b710f223c9a10806e955db9_lecture14.pdf
+file: /ol-ocw-studio-app/courses/12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004/31fabd099b710f223c9a10806e955db9_lecture14.pdf
 file_size: 87773
 file_type: application/pdf
 learning_resource_types:
