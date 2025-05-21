@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture handout.
-file: /ol-ocw-studio-app/courses/12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004/e03fe5799e4006d11b87627d5264561b_mathematics.pdf
+file: /courses/12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004/e03fe5799e4006d11b87627d5264561b_mathematics.pdf
 file_size: 132138
 file_type: application/pdf
 learning_resource_types:

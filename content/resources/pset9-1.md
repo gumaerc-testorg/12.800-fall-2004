@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004/005482189b748c0189b7ecdd752103f8_pset9.doc
+file: /courses/12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004/005482189b748c0189b7ecdd752103f8_pset9.doc
 file_size: 34304
 file_type: application/msword
 learning_resource_types:
