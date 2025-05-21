@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture handout.
-file: /ol-ocw-studio-app/courses/12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004/6aae0ce58d9d0548af482b517ffe591c_wavesprimer.pdf
+file: /courses/12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004/6aae0ce58d9d0548af482b517ffe591c_wavesprimer.pdf
 file_size: 81489
 file_type: application/pdf
 learning_resource_types:
