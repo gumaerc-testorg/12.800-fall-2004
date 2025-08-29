@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Review handout.
-file: /courses/12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004/123387888816ae1352049141db64a789_finalreview.pdf
+file: /ol-ocw-studio-app/courses/12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004/123387888816ae1352049141db64a789_finalreview.pdf
 file_size: 99486
 file_type: application/pdf
 learning_resource_types:
