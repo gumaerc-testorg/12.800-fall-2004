@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting MATLAB? file.
-file: /courses/12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004/0cc789d658a858a5c70c4e41751e948c_lorenzeq.m
+file: /ol-ocw-studio-app/courses/12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004/0cc789d658a858a5c70c4e41751e948c_lorenzeq.m
 file_size: 297
 file_type: text/plain
 learning_resource_types:
